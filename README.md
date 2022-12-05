@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,14,14,15,18,20&type=waving&height=200&section=header&text=Welcome!&fontSize=40&fontcolor=#FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome!&fontSize=60&fontColor=9195FF)
 
 ### 안녕하세요 👋
 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/0jin_101/" target="_blank"><img src="https://img.shields.io/badge/0jin_101-white?style=flat-square&logo=instagram&logoColor=#E4405F"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjk101&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjk101&show_icons=true&icon_color=#9195FF&title_color)
