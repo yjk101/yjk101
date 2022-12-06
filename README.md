@@ -8,7 +8,6 @@
 <br>
 인공지능소프트웨어학과
 20221669 고영진의 깃허브입니다
-<br>
 <h3> ⋆⁺₊⋆⁺₊⋆
 
 
@@ -28,6 +27,8 @@ Here are some ideas to get you started:
 -->
 <br>
 <br>
+  
+  
 <a href="https://www.instagram.com/0jin_101/" target="_blank"><img src="https://img.shields.io/badge/0jin_101-white?style=flat-square&logo=instagram&logoColor=#E4405F"/></a>
 
 
