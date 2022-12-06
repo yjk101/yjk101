@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome!&fontSize=60&fontColor=6799FF)
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome!&fontSize=60&fontColor=6799FF)
+
 
 <h3> ⋆⁺₊⋆⁺₊⋆
   
