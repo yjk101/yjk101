@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
   
   
-<br>
+
+  
 ![yjk101's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjk101&show_icons=true&icon_color=#9195FF&title_color)
 
 </div>
