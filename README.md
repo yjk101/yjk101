@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome!&fontSize=60&fontColor=6799FF)
 
-### 안녕하세요 👋
-
 <h3> ⋆⁺₊⋆⁺₊⋆
   
 <br>
 <br>
-인공지능소프트웨어학과<br>
-20221669 고영진의 깃허브입니다
+👋 인공지능소프트웨어학과<br>
+20221669 고영진의 깃허브입니다 👋
 <h3> ⋆⁺₊⋆⁺₊⋆
 
 
