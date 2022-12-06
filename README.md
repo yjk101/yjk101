@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome!&fontSize=60&fontColor=6799FF)
+<div align="center">
 
 <h3> ⋆⁺₊⋆⁺₊⋆
   
@@ -30,3 +31,5 @@ Here are some ideas to get you started:
 
 
 ![yjk101's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjk101&show_icons=true&icon_color=#9195FF&title_color)
+
+</div>
