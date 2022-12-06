@@ -3,12 +3,18 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome!&fontSize=60&fontColor=6799FF)
 <h3> ⋆⁺₊⋆⁺₊⋆
   
-<br>
+  
+  
 <br>
 :heartpulse: yjk101's github :heartpulse:
-<h3> ⋆⁺₊⋆⁺₊⋆
 
 
+  
+  
+  
+  
+  
+<a href="https://www.instagram.com/0jin_101/" target="_blank"><img src="https://img.shields.io/badge/0jin_101-white?style=flat-square&logo=instagram&logoColor=#E4405F"/></a>
   
   
   
@@ -29,8 +35,6 @@ Here are some ideas to get you started:
 <br>
 <br>
   
-  
-<a href="https://www.instagram.com/0jin_101/" target="_blank"><img src="https://img.shields.io/badge/0jin_101-white?style=flat-square&logo=instagram&logoColor=#E4405F"/></a>
 
 
   
