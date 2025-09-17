@@ -14,7 +14,7 @@
   
   
   
-<a href="https://www.instagram.com/0jin_101/" target="_blank"><img src="https://img.shields.io/badge/0jin_101-white?style=flat-square&logo=instagram&logoColor=#E4405F"/></a>
+<a href="https://www.instagram.com/skdk_yj/" target="_blank"><img src="https://img.shields.io/badge/skdk_yj-white?style=flat-square&logo=instagram&logoColor=#E4405F"/></a>
   
   
   
